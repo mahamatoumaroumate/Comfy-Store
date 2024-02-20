@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@layer components {
+  .align-element {
+    width: 90vw;
+    max-width: 1230px;
+
+    margin: 0 auto;
+  }
+}
